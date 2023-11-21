@@ -19,6 +19,7 @@ Data Analysis
 QuickDBD
 ----------------------------------------------
 QuickDBD-Employee_Department.png
-QuickDBD-Employee_Department.sql
+
+QuickDBD-Employee_Department.sql - Data Engineering + Data Modeling
 
 
